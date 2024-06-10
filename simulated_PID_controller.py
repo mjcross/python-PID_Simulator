@@ -1,3 +1,8 @@
+# Forked by MJCROSS from https://github.com/bsmith43600/PID_Simulator
+# See description at
+# https://medium.com/@bsmith4360/building-a-simulated-pid-controller-in-python-111b08ccae1a
+
+
 import numpy as np
 import matplotlib.pyplot as plt
 
